@@ -1,4 +1,4 @@
-# PelleeNet_SSD for the ncnn framework
+# PeleeNet_SSD for the ncnn framework
 Papers <br/>
 https://arxiv.org/pdf/1804.06882.pdf <br/>
 Training set: VOC2007 <br/>
@@ -10,7 +10,7 @@ Special made for a bare Raspberry Pi see: https://qengineering.eu/opencv-c-examp
 To extract and run the network in Code::Blocks <br/>
 $ mkdir *MyDir* <br/>
 $ cd *MyDir* <br/>
-$ wget https://github.com/Qengineering/PelleeNet_SSD/archive/master.zip <br/>
+$ wget https://github.com/Qengineering/PeleeNet_SSD/archive/master.zip <br/>
 $ unzip -j master.zip <br/>
 Remove master.zip and README.md as they are no longer needed. <br/> 
 $ rm master.zip <br/>
