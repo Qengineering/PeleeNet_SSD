@@ -39,7 +39,7 @@
 			<Add option="-fopenmp" />
 			<Add library="/usr/local/lib/ncnn/libncnn.a" />
 		</Linker>
-		<Unit filename="main.cpp" />
+		<Unit filename="peleenetssd_seg.cpp" />
 		<Extensions>
 			<code_completion />
 			<debugger />
